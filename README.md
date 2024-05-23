@@ -17,6 +17,8 @@ Patient Care
 Documentation Time
 Not in Study Time (breaks, communication, etc.)
 Data Analysis: The cleaned data was analyzed to determine the proportions of time spent on each activity type, with comparisons across units.
+
+
 Key Findings:
 
 Nurses spent a significant portion of their time (53.4%) on documentation and administrative tasks.
